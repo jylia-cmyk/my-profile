@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F8C8DC; 
+  text-align: center;        
+  padding-top: 50px;
+}
+
+.container {
+  background-color: white;
+  width: 400px;           
+  margin: 0 auto;        
+  padding: 30px;
+  border-radius: 15px;    
+}
+
+.img-circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;     
+  object-fit: cover;      
+}
+
+.btn-simple {
+  background-color: #ff4757;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;  
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+
+ul {
+  text-align: left;
+  display: inline-block; 
+}
